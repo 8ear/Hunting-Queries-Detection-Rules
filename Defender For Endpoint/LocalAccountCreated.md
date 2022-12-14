@@ -49,7 +49,9 @@ DeviceName
      ActionType,
      AccountDomain,
      AccountName,
-     AccountSid
+     AccountSid,
+     ReportId,
+     DeviceId
 ```
 ## Sentinel
 ```
